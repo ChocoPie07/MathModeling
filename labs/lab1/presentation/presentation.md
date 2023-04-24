@@ -50,11 +50,11 @@ Git Bash — это приложение для среды Microsoft Windows, к
 
 ## Конфигурация git
 
-![имя и email](image/1.1.1.jpg){#fig:002 width=70%}
+![имя и email](image/1.1.1.png){#fig:002 width=70%}
 
 ## Работа с git
 
-![Работа с git(1)](image/1.4.2.jpg){#fig:003 width=40%}
+![Работа с git(1)](image/1.4.2.png){#fig:003 width=40%}
 
 ## Работа с git
 
